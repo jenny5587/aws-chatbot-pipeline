@@ -1,8 +1,8 @@
 # Rag를 사용한 AWS Chatbot
 
 ### ✔️ 사용 기술
-  - Chain : <img src="
-  - LLM : <img src="
+  - Chain : <img src="https://img.shields.io/badge/Langchain-FF9900?style=flat&logo=Langchain&logoColor=white"/>
+  - LLM : <img src="https://img.shields.io/badge/Claude2-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 
 
 
